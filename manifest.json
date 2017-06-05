@@ -1,5 +1,5 @@
 {
-  "name": "MichealW3Schools", //this unique
+  "name": "MichealW3Schools", //this uniquely identifies my extension 
   "version": "1",
   "browser_action":
   {
