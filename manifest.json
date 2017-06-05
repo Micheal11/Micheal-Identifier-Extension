@@ -7,7 +7,7 @@
   },
   "background":
   {
-    "page": "index.html"
+    "page": "index.html" //this references the index.html file i created which processes in th background
   },
   "background":{
   "scripts": ["background.js"]
